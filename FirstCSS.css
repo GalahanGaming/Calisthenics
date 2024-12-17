@@ -7,7 +7,9 @@ body {
     background-color: #2F323A;
     font-family: 'Poppins',sans-serif; 
     margin: 0px;
-    overflow-x: hidden;
+    width: 1200px; /* or the width of your desktop layout */
+    margin: 0 auto;
+    overflow-x: scroll; 
   }
   #BodyWeight h1 {
     position:relative;
